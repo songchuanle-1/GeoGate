@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the relevant GeoGate manuscript and the upstream methods used by your experiment. This entry describes the software release."
+type: software
+title: "GeoGate: Late Spatial Token Pruning"
+authors:
+  - name: "GeoGate contributors"
+version: 0.1.0
+date-released: 2026-11-10
+repository-code: "https://github.com/songchuanle-1/GeoGate"

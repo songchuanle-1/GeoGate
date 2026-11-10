@@ -1,0 +1,16 @@
+GeoGate source release
+Copyright 2026 GeoGate contributors.
+
+The Llama forward/cache interfaces in adaptive_token/geogate_v0.py and
+adaptive_token/geogate_v0_fixedset_v21.py are adapted
+from Hugging Face Transformers 4.37.2, models/llama/modeling_llama.py:
+Copyright 2022 EleutherAI and the HuggingFace Inc. team. All rights reserved.
+The upstream file describes its basis in EleutherAI GPT-NeoX and the GPT-NeoX
+and OPT implementations in Transformers, with adaptations for Meta's Llama.
+Upstream and the GeoGate modifications are provided under Apache-2.0.
+GeoGate adds spatial scoring, token pruning, position tracking and prompt
+cache compaction. See LICENSE and THIRD_PARTY.md.
+
+LLaVA-3D integration files marked CC-BY-NC-SA-4.0 follow the separately
+documented attribution and conditions in THIRD_PARTY.md. The root Apache
+license does not replace those conditions.

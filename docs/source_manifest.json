@@ -1,0 +1,441 @@
+{
+  "snapshot_date": "2026-11-10",
+  "scope": "Current source snapshot, not proof of historical execution identity.",
+  "files": [
+    {
+      "path": "adaptive_token/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "release_sha256": "6c6ec57de9f82ef42d82760f144a4571cb16b3cd6de33aaa7aa9fd65e8ab1fa1",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "adaptive_token/adaptive_policy.py",
+      "source_sha256": "e44a460702ad1d8d6e6f5cb614b9a811f1d99e2cfa34c04b11202e5789be6632",
+      "release_sha256": "2e63710d09ee2d313fb49bf1d7d548f23e842a0ee03e58c52f993c85a45c19ba",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "adaptive_token/coverage_selector.py",
+      "source_sha256": "59c7f905f399e64f8b73646d78f6d2f65e0c11b5c077d16d111c1d80b8ff9f93",
+      "release_sha256": "58f9a666cf406268bd815ce1f99f4f0f14a8029aa3a1f04628f668de8d6c4e05",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "adaptive_token/deterministic_scene_cap.py",
+      "source_sha256": "a596e6e8f833ca0d2e4ba6e9eaa63693cddd63abc0276da42405692c964536d3",
+      "release_sha256": "89ab2c597cb61e4e537b4a7fd51817c05d0cc65b54fbe38716817347a1ac86df",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "adaptive_token/forward_trace.py",
+      "source_sha256": "8320edc0302eb562d7128023215ff5529aa50b6fe622bdfee25ab243f1c0c5dd",
+      "release_sha256": "9967453bae0e31afeeb90d3cd461be47e0b6cbbc7112e84d18271bbffbc85152",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "adaptive_token/geo_coords.py",
+      "source_sha256": "11158219f7de8d8178de1c7aad5b5dde11c4fbb78c502d234f40e05b03dd9bca",
+      "release_sha256": "b238b3efd1a7f412ede1b92163c58583c0c05e7eb35947458e0c37c38e0408ad",
+      "license": "CC-BY-NC-SA-4.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "adaptive_token/geogate_v0.py",
+      "source_sha256": "dfc3e28a5257ec3f12f069eeab8904083edabfa511f52a53766aed5b56edea19",
+      "release_sha256": "0ecbe273c49d8ae18c2f2f51e4886fd8f3997a47460788ed43c0888d2e8e12d6",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "adaptive_token/geogate_v0_fixedset_v21.py",
+      "source_sha256": "f488f0884b8894fe75b4143cea0400a5aa6bb75b44070b9c11d52ef3d5eaab54",
+      "release_sha256": "ea05b507a388b8fbcc66fdb1105ea5cb5f821b86e209a685cc91fec8a7359067",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "adaptive_token/gpu_guard.py",
+      "source_sha256": "a633e9ab469d7b110ef2f5f031bd10bf35b62dd42da79d7f4a51035b1f72f057",
+      "release_sha256": "f79f5b53d7c28b4ae7925ddeace4b21e94a41501901c1ca286ca007634ce29e9",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "adaptive_token/run_cost_controls_v4.py",
+      "source_sha256": "e4e71d2182019597b1bbbe94fe0f7e5bb90741355e0c1bc8a92f67271efd7f7e",
+      "release_sha256": "4c4c9c62f3c42468bba58af8ebfab7bb4f21305b71f7ffe6a252eb580d1a47ff",
+      "license": "CC-BY-NC-SA-4.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "adaptive_token/run_layer_sweep_paired.py",
+      "source_sha256": "ddbbf80f2c4e4feb1a489493b9882e915c1541bc5de1b58a053f1fed62faf42c",
+      "release_sha256": "aac8692257f38a0115fc6ba25317c4427b8bbe123ed6876ce84bc84397114809",
+      "license": "CC-BY-NC-SA-4.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "adaptive_token/run_scanqa_geogate.py",
+      "source_sha256": "3fcc3965c3c7b9846ad9c36efbc602f41373122a586ae216aaf02f8a94c23e61",
+      "release_sha256": "e1d75d16c7dc739eb4ffb0415da4a7b94473f7f3a8fc46e08f3dffde7f2d30d9",
+      "license": "CC-BY-NC-SA-4.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "adaptive_token/run_scanqa_timing_boundaries_v4.py",
+      "source_sha256": "932c42f7bf6e90e581a16d61825c8daa9446566e68db952f6b71754b263d5ba4",
+      "release_sha256": "831695bceb415a9c86c2d51e0deffafbb86f32b6298bb5e23360005b38a8b76a",
+      "license": "CC-BY-NC-SA-4.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "adaptive_token/run_shared_input_quality_v3.py",
+      "source_sha256": "0a2f1b248099e950751f9e589df67f0cdb64d8abca3a7a2daf39c91f88025036",
+      "release_sha256": "f020e538c5858bf9661a4640016fb2b31a8b1d555266bbc1d5d7fd6c9d03c0ac",
+      "license": "CC-BY-NC-SA-4.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "adaptive_token/stage_arm_v4.py",
+      "source_sha256": "cba2929216a81296c8ecd6d1a3741f3db1f49cd4f0024cdac45161d6b15cd030",
+      "release_sha256": "0922e6f70a66c5dafba9503e0df4b968cbc5ae324c34052d2a8ec3ad832be09d",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/audit_review_v3.py",
+      "source_sha256": "d5635326d94014ca5d908c11e1fb31727f1ef7a83b231453e599a04116d85828",
+      "release_sha256": "e5b1c9fbd208648554f8063790241290637345d31ef794adc3787dede001b584",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/e1_attention_profile.py",
+      "source_sha256": "d91fec04f43da63355ff5874c8735f324450bf4baa048b5538f38b80924110ff",
+      "release_sha256": "ed80b82a6c256f289539d8b218c2dc917dfcb0d8ac2d554eebca5e443d267118",
+      "license": "CC-BY-NC-SA-4.0",
+      "packaging_changes": [
+        "Replace machine-specific examples with portable placeholders.",
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/flops_estimate.py",
+      "source_sha256": "74cb0de2362b4762c91e5ea2cf6b252da013953e300ed89800bb32a3b28b8e3d",
+      "release_sha256": "c7a5a491b17c3fbcdd7bf642eddc101c9dc0fb3140050028726eacd7edc76b2c",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/freeze_cost_controls_v4.py",
+      "source_sha256": "e2ae1743d4721dec39a29ecc51990bd9805b9ca2353c83aa539f39e33773d9ec",
+      "release_sha256": "8050e1c367f60cad433087e209d6f9c44c4f5bd48fc36aae8345eb4413798313",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/layer_sweep_protocol.py",
+      "source_sha256": "900c33325cccf550262e5cce41522cdc5fbc93dd48721fe2c298c8fc4c080da5",
+      "release_sha256": "851e45647a893d60741b1d1ede5a268bdba0bff41c706dfff25a019188554f45",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/paired_cider_bootstrap.py",
+      "source_sha256": "d5a0fa5e0602338ced36a074dd41c8eb3968d1f99547cb2cee04a016819184d4",
+      "release_sha256": "02bc4b9a31f0d6f5ab7acec3d36a85bc47c69672d6b705a33703b78b71f1caca",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/paired_scan2cap_cider_bootstrap.py",
+      "source_sha256": "e97539d16ed3148b195bd4e4d8499e100264f65acb3c9c03b76a40f8f93da0b5",
+      "release_sha256": "67fce6d4a07b0a85313953142792cad59a1a3e52b775a8ab3e55eb2f7a41cff9",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/paired_scanqa_bootstrap.py",
+      "source_sha256": "c37d91f371acc91cd61e94c2cf541df7dd86eb78fa015a231d8e8ade298b8d1e",
+      "release_sha256": "7e4669aa456d0d2d37154280258774ccd19fb2188241b995bbc262b80aea5535",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/paired_scene_metric_bootstrap.py",
+      "source_sha256": "6a99aa67cc120f28316c5f9fa8bad356e18fa5883dcddbfd5393429685b26d45",
+      "release_sha256": "3fee2e8a90b8f44b7e9ae1e004f775806e9c0eb175fc8375c759f1811cde2140",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/phase_structure_bootstrap.py",
+      "source_sha256": "df980e949e8cb4fbc70710612eb90cbb8e08acd073e8ffc7f06ae6d565fae746",
+      "release_sha256": "cd6f8d9b83902ab6d774c223f807d843016a083ebe31e9f28fb3eb672df6cbe6",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/review_v3_model_provenance.py",
+      "source_sha256": "40e30a41e30d7653c1c00122ef3b5474b8da27b51a99a80f669ef397717a7bcd",
+      "release_sha256": "1ed24b433429f940e4e022a2b73b83310638dd31953aad54c89108cd48cb78a8",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/review_v3_protocol.py",
+      "source_sha256": "fcdbebd8b7f4e8b13fa28bf028b0adca7669abd728908f6550e43bf2736e3edc",
+      "release_sha256": "ad7e97b076e796e32f3af4d00efd3b071652d1c69715388ab40c36261c68c089",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/review_v4_journal.py",
+      "source_sha256": "aa7506a2be3b36a74324be96c9ce08f9cdad673d6733957a4e05d9c4021d32aa",
+      "release_sha256": "3890b54baf4ba6988849e77d95a3db979f2937ca2b4a83e6333ef1ac8e1c1d8c",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/run_prompt_robustness_v3.py",
+      "source_sha256": "801d1159e3b4202adb078ef32729e6a8f43645435a4ed0f25235d7ccb130542a",
+      "release_sha256": "5ca5f5d0cf91c2032b2f49d5799e6b4fe8d9d289f6f373d74d0aa388a086c09a",
+      "license": "CC-BY-NC-SA-4.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/score_cost_controls_v4.py",
+      "source_sha256": "6560f46d120e266531dd7ee1d6f2d0cd5f6773b8b188c84c9f82aa4e45cdb295",
+      "release_sha256": "247cf8859473de4947d5d6a8356ee16ef22fa76dda37edc15d9080d79f4120f9",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/score_shared_input_quality_v3.py",
+      "source_sha256": "cb202506159b9cb1746c9fedfa28d2d1fdeeb777636644f325cf186d32a354ea",
+      "release_sha256": "e2695e16845e4d347d2806e9bd58b43a8dd6d32f8290135969a88dfaf2bfaf31",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/stage_protocol_v4.py",
+      "source_sha256": "3317753ae04fbb9f9e33334e94a782a96a00b210a653bbe819cd6cdd31bf295c",
+      "release_sha256": "0b4a456649b3216d511246d1259a3b93f70a8d3125436be2779f5d11b8e82691",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "analysis/stage_trace_v4.py",
+      "source_sha256": "76ec207ab550013a097cef659f8bd9a198544b833eba5fe03d57b8b8c2fc830c",
+      "release_sha256": "8c0bad7c23ff8be9e88a55234825b03b63870b5a4233f025d2036fd3ac85f268",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "tests/test_adaptive_policy.py",
+      "source_sha256": "e95d87e7a55819dbd838f27f68631605375df5abb0b7477fbf4a7f0b8fb2bb8d",
+      "release_sha256": "f8c74265ece5966b26e7cec04a9e869e33fdc67071786c7a9b29590f56d749de",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "tests/test_adaptive_state_reset.py",
+      "source_sha256": "1b4373d9634c841099bd96a59c3ddbde0ad85554d64d9c5ec3c5085e682bc146",
+      "release_sha256": "33dae29629b1bc91b89db83d47b8099438e49e6833384883b89ce314897a26ad",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "tests/test_auto_span.py",
+      "source_sha256": "8992546f6fdbe4d293405a3069a934f2b671d8be80565342e7f9306ea865772f",
+      "release_sha256": "5ce466152a6b3666fbc55cfd6bd62815d7a837b2693ef005d9986e4a14a89ea1",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "tests/test_cost_controls_v4.py",
+      "source_sha256": "24c7e52dd1b254245c2cae2d8a8f37bf1c987672167747b619948a68142c70dc",
+      "release_sha256": "d50449fb4ba53f220395c7b519174c9017f4fd51963a2a4adc56e630d088bea7",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "tests/test_coverage_selector.py",
+      "source_sha256": "c60f612c96aa818e1062c3418a5af72d1afa1229fc99d67eb7f9e50064a9fce4",
+      "release_sha256": "1ce94e2d0dc5b21a16913f358bb35db3ad147f993d5acdd2a1d310382a187adf",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "tests/test_deterministic_scene_cap.py",
+      "source_sha256": "eaae256f107ea9f9f49d4f4f74f1dfaf09c1ad5d02e153c8610613e3ffde8d25",
+      "release_sha256": "cb3d3b883f00955eb90b77b1feaf6ff585abd845e2866472cd44c5409fb9b208",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "tests/test_flops_estimate.py",
+      "source_sha256": "63bfc9090201ec8fe656b3adea599bb93e9117223a5e8ce4fe4cddb86933fa96",
+      "release_sha256": "d467e98d8640da32390c7f3e55e7e8d3cd52aabb041177b21c9f020201fe0fa7",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "tests/test_geo_coords_mapping.py",
+      "source_sha256": "c40c367f0b333e2f6cac0f894bdc8c7c87e73fe6f5c18fe9737cff15c23f2b45",
+      "release_sha256": "d12e790d88e8071dbd9366940b583718fd2b11dea3e5b71c28f0128c98647b43",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "tests/test_gpu_guard.py",
+      "source_sha256": "d2b133d78058bb8556be9f8029942ce023f627eab68fa0ed696579a64741a48b",
+      "release_sha256": "130303cd9e7e6aa2dd941f9294fbc277c9a152699f7a478b31c59e66788bba1a",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "tests/test_kv_snapshot_mapping.py",
+      "source_sha256": "459f61207231be3810fe74273bb0e9fd5b74efba346ff9f9da1ecda53e7920f6",
+      "release_sha256": "044729011587e60030589d6b518a2cf0f01334518a781faec99379b6426d7abe",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "tests/test_review_v3_decode.py",
+      "source_sha256": "4207e11f4d2cd380e1f7cb25002ebe6726dc3335bb020aa71077c8db28ae48e4",
+      "release_sha256": "265a9ef0399702dfe39d66fe5068c4162dff7df8d22f8f377a0aedf5683da38d",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "tests/test_review_v3_protocol.py",
+      "source_sha256": "9705e4f6658b9fd27700f2d4d38ed2bde206124ac31a34d1d7999cfb3622e21a",
+      "release_sha256": "471e1872b32a7e10afe21f91c9567df8eead6dc6e186c59ec126934a9103c3a7",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "tests/test_review_v4_journal.py",
+      "source_sha256": "3b677aa5eb75a09ab0572e32600735031372a01432ba5a5c13b7d41b0d95a082",
+      "release_sha256": "d691a434ddd9997470b84cb81674ca2697780dd2f5b66184a0dc03aaceda4a55",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Add an explicit per-file license/attribution notice."
+      ]
+    },
+    {
+      "path": "tools/scanqa_score.py",
+      "source_sha256": "843f2651a5e4e6a2d14de1177eadc2edd33aa56252ab15a0455e198fe1f495f5",
+      "release_sha256": "4914079d4962efa10029d2dca321dcce213f2568215efbe781b3153bd69d2815",
+      "license": "Apache-2.0",
+      "packaging_changes": [
+        "Remove a machine-specific comment.",
+        "Add an explicit per-file license/attribution notice."
+      ]
+    }
+  ],
+  "excluded": [
+    "model weights",
+    "datasets and annotations",
+    "raw model outputs",
+    "credentials",
+    "server launch scripts",
+    "research Git history",
+    "manuscript sources",
+    "adapted 3D-LLaVA evaluation scripts without a verified redistribution license"
+  ]
+}

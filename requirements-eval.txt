@@ -1,0 +1,3 @@
+# Extra utilities only. Install the 3D backbone in its own supported environment.
+tqdm>=4.64
+pycocoevalcap==1.2
